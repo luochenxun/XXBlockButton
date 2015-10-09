@@ -1,0 +1,6 @@
+framework module XXBtnLibrary {
+  umbrella header "XXBtnLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
